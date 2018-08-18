@@ -1,9 +1,1 @@
-ss
-local sub add 12.46
-sub add 0.28
-sub add 1.30
-remote sub add a row
-4545
-55
-dzp
-dzp add a row
+clear all
